@@ -1,0 +1,6 @@
+# Ignore SSH keys
+*.pub
+id_ed25519
+id_ed25519.pub
+Start-Service ssh-agent
+Start-Service ssh-agent.pub
